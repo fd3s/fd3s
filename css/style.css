@@ -312,7 +312,7 @@ hr {
 	position:relative;
 	background: url(../img/tokyo1.jpg) no-repeat top center;
     background-size: cover;
-    height: auto;
+    height: 75%;
 }
 
 #intro.intro {
